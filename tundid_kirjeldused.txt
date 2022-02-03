@@ -1,0 +1,15 @@
+retrochrome_.png:Ruum A-218 Pant Gert
+prog.png: E07 Marina Oleinik
+base.png: E10 Irina Merkulova
+english.png: Ruum B-138 Poskotinova Olga
+english.png: Ruum B-148 Zestjakova Elina
+console.png: Ruum A-243 Shkarbanova Lury
+Eesti keel Gruup 1: Ruum B-226 Irina Peetrimägi
+Eesti Keel Gruup 1: Ruum B-234 Olesja Ojamäe
+history.png: Ruum B-238 Speek Mari
+isk.png: Ruum B-232 Norkevitð Aleskandra 
+talk.png: Ruum B-003 Schumaan Sirje
+book.png: Ruum B-221 Mihhailova Ljudmilla
+phys.png: Võimla A Maksõmiv Maksim
+Rühmajuhataja tund: E10 Marina Oleinik
+maths.png: B-133  Voronova Nadeþda

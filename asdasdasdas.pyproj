@@ -1,0 +1,49 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>045685eb-c277-491e-b09b-5f0790ed5f21</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>asdasdasdas.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>asdasdasdas</Name>
+    <RootNamespace>asdasdasdas</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="asdasdasdas.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="base.png" />
+    <Content Include="book.png" />
+    <Content Include="console.png" />
+    <Content Include="english.png" />
+    <Content Include="history.png" />
+    <Content Include="isk.png" />
+    <Content Include="maths.png" />
+    <Content Include="phys.png" />
+    <Content Include="prog.png" />
+    <Content Include="retrochrome_.png" />
+    <Content Include="talk.png" />
+    <Content Include="tundid_kirjeldused.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
